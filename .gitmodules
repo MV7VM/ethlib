@@ -1,0 +1,9 @@
+[submodule "nitro"]
+	path = nitro
+	url = https://github.com/OffchainLabs/nitro
+[submodule "go-ethereum"]
+	path = go-ethereum
+	url = https://github.com/ethereum/go-ethereum
+[submodule "optimism"]
+	path = optimism
+	url = https://github.com/ethereum-optimism/optimism
